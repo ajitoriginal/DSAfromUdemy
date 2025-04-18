@@ -1,0 +1,6 @@
+/*
+understand how objects and arrays work throgh the lens of Big O Notation
+Explain why adding elements to the beginning of an array is costly.
+Compare and contrast the runtime for arrays and objects.
+
+*/
